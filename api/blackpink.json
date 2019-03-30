@@ -1,0 +1,10 @@
+{
+  "name": "블랙핑크",
+  "company": "YG Entertainment",
+  "memberss": [
+    { "name": "지수", "group": "블랙핑크", "company": "YG Entertainment", "birth": "1995-01-03", "height": 162, "weight": 44, "imageUrl": "https://bit.ly/2OyFmG9" },
+    { "name": "제니", "group": "블랙핑크", "company": "YG Entertainment", "birth": "1996-01-16", "height": 163, "imageUrl": "https://bit.ly/2OwY00Y" },
+    { "name": "로제", "group": "블랙핑크", "company": "YG Entertainment", "birth": "1997-02-11", "height": 168, "weight": 46, "imageUrl": "https://bit.ly/2CMv2Wn" },
+    { "name": "리사", "group": "블랙핑크", "company": "YG Entertainment", "birth": "1997-03-27", "height": 166.5, "weight": 44.7, "imageUrl": "https://bit.ly/2UjHO8B" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "레드벨벳",
+  "company": "SM Entertainment",
+  "members": [
+    { "name": "아이린", "group": "레드벨벳", "company": "SM Entertainment", "birth": "1991-03-29", "height": 158, "imageUrl": "https://bit.ly/2U3OEji" },
+    { "name": "슬기", "group": "레드벨벳", "company": "SM Entertainment", "birth": "1994-02-10", "height": 161, "imageUrl": "https://bit.ly/2JRID4N" },
+    { "name": "웬디", "group": "레드벨벳", "company": "SM Entertainment", "birth": "1994-02-21", "height": 159, "imageUrl": "https://bit.ly/2WyWdv8" },
+    { "name": "조이", "group": "레드벨벳", "company": "SM Entertainment", "birth": "1996-09-03", "height": 167, "imageUrl": "https://bit.ly/2FJw5qC" },
+    { "name": "예리", "group": "레드벨벳", "company": "SM Entertainment", "birth": "1999-03-05", "height": 158, "imageUrl": "https://bit.ly/2JRfMNW" }
+  ]
+}

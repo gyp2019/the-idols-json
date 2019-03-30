@@ -1,0 +1,15 @@
+{
+  "name": "트와이스",
+  "company": "JYP Entertainment",
+  "members": [
+    { "name": "나연", "group": "트와이스", "company": "JYP Entertainment", "birth": "1995-09-22", "height": 163, "weight": 48, "imageUrl": "https://bit.ly/2I7rHF1" },
+    { "name": "정연", "group": "트와이스", "company": "JYP Entertainment", "birth": "1996-11-01", "height": 167, "weight": 49, "imageUrl": "https://bit.ly/2U3qzcB" },
+    { "name": "모모", "group": "트와이스", "company": "JYP Entertainment", "birth": "1996-11-09", "height": 162, "weight": 48, "imageUrl": "https://bit.ly/2WvLTUM" },
+    { "name": "사나", "group": "트와이스", "company": "JYP Entertainment", "birth": "1996-12-29", "height": 164, "weight": 45, "imageUrl": "https://bit.ly/2OC758J" },
+    { "name": "지효", "group": "트와이스", "company": "JYP Entertainment", "birth": "1997-02-01", "height": 160, "weight": 47, "imageUrl": "https://bit.ly/2FCD0SH" },
+    { "name": "미나", "group": "트와이스", "company": "JYP Entertainment", "birth": "1997-03-24", "height": 163, "weight": 46, "imageUrl": "https://bit.ly/2OyFlC5" },
+    { "name": "다현", "group": "트와이스", "company": "JYP Entertainment", "birth": "1998-05-28", "height": 158, "weight": 49, "imageUrl": "https://bit.ly/2FL6aAg" },
+    { "name": "채영", "group": "트와이스", "company": "JYP Entertainment", "birth": "1999-04-23", "height": 160, "weight": 47, "imageUrl": "https://bit.ly/2V7SG6G" },
+    { "name": "쯔위", "group": "트와이스", "company": "JYP Entertainment", "birth": "1999-06-14", "height": 170, "weight": 49, "imageUrl": "https://bit.ly/2CJWQL9" }
+  ]
+}
